@@ -1,11 +1,11 @@
-// const fish = { id: 59, name: 'King Hilsha', price: 9000, phone: '8080568454', address: 'Paddar par', dress: 'silver' };
+const fish = { id: 59, name: 'King Hilsha', price: 9000, phone: '8080568454', address: 'Paddar par', dress: 'silver' };
 
-// const phone = fish.phone;
-// const name = fish.name;
-// const price = fish.price;
-// const address = fish.address;
+const phone = fish.phone;
+const name = fish.name;
+const price = fish.price;
+const address = fish.address;
 
-/* const { phone, name, price, address } = fish;
+const { phone, name, price, address } = fish;
 
 console.log(phone, name);
 console.log(phone);
@@ -15,7 +15,7 @@ console.log(phone, price);
 console.log(phone);
 console.log(phone, price);
 console.log(phone);
-console.log(phone, address); */
+console.log(phone, address);
 
 const myCompany = {
     name: 'GP',
